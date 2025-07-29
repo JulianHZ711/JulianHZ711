@@ -61,7 +61,7 @@ Currently pursuing my **System Engineering degree** while constantly working on 
 ## 📬 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julián-zapata-gutiérrez-5b2b0133a)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julianzapatag7@gmail.com)  - julianzapatag7@gmail.com
+[![julianzapatag7@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](julianzapatag7@gmail.com)  - julianzapatag7@gmail.com
 
 ---
 
